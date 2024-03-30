@@ -4,7 +4,6 @@
 
 Embedded WebView build using [https://tauri.app/](tauri)
 
-
 #### Run
 
 ```bash
