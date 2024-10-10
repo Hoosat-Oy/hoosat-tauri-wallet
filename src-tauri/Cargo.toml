@@ -1,8 +1,8 @@
 [package]
-name = "pyrin-wallet-desktop"
+name = "hoosat-wallet-desktop"
 version = "1.0.0"
-description = "Pyrin Wallet Desktop (Embedded WebView)"
-authors = ["Pyrin"]
+description = "Hoosat Wallet Desktop (Embedded WebView)"
+authors = ["Hoosat Oy"]
 edition = "2021"
 
 [build-dependencies]

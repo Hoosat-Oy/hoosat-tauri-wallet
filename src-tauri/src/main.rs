@@ -9,9 +9,9 @@ fn main()
     .plugin(tauri_plugin_window_state::Builder::default().build())
     .setup(|app| {
         let window = app.get_window("main").unwrap();
-        window.eval("window.location.replace('https://wallet.pyrin.network')");
+        window.eval("window.location.replace('https://wallet.hoosat.fi')");
         Ok(())
       })
       .run(tauri::generate_context!())
-      .expect("error running pyrin wallet");
+      .expect("error running Hoosat Network wallet");
 }

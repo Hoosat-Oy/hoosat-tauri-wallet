@@ -1,6 +1,6 @@
 
 
-#### Pyrin Desktop Wallet
+#### Hoosat Desktop Wallet
 
 Embedded WebView build using [tauri](https://tauri.app/)
 
